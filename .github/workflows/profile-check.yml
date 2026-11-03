@@ -1,6 +1,6 @@
 # Weekly safety net: every public repo tagged claude-skill must have a row in README.md,
 # and the README must have been edited after that repo's latest release.
-# Opens (or updates) one issue when something is missing or stale; closes it when all is well.
+# Fails the run with a summary when something is missing or stale; GitHub emails the owner on failure.
 name: Profile check
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
-  issues: write
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -33,13 +32,9 @@ jobs:
               problems+="- [ ] **$r** released ${released:0:10}, after the last README edit (${edited:0:10}): review its row's text and numbers."$'\n'
             fi
           done
-          title="Profile README is behind the published skills"
-          open=$(gh issue list -R "$REPO" --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
           if [ -z "$problems" ]; then
-            echo "Profile README is up to date."
-            [ -n "$open" ] && gh issue close "$open" -R "$REPO" -c "All skill repos are listed and current."
+            echo "Profile README is up to date." | tee -a "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
-          body="The weekly profile check found:"$'\n\n'"$problems"$'\n'"Fix README.md, then rerun the Profile check workflow (it closes this issue)."
-          printf '%s' "$problems"
-          if [ -n "$open" ]; then gh issue edit "$open" -R "$REPO" --body "$body"; else gh issue create -R "$REPO" --title "$title" --body "$body"; fi
+          { echo "### Profile README is behind the published skills"; echo; printf '%s' "$problems"; echo; echo "Fix README.md, then rerun this workflow."; } | tee -a "$GITHUB_STEP_SUMMARY"
+          exit 1
