@@ -2,6 +2,8 @@
 
 I build small, sharp tools for AI coding agents and fast browser games. Everything here is free, open source, signed and measured.
 
+🌐 **Portfolio:** [maumoya.github.io](https://maumoya.github.io)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mba--mmoyat-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mba-mmoyat/)
 [![X](https://img.shields.io/badge/X-@mau__amt-000000?logo=x&logoColor=white)](https://x.com/mau_amt)
 [![YouTube](https://img.shields.io/badge/YouTube-@maumoya85-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@maumoya85)
