@@ -22,6 +22,15 @@ I build small, sharp tools for AI coding agents and fast browser games. Everythi
 /plugin install adhd-status@adhd-status
 ```
 
+### 🧩 Plug-ins (browser extensions)
+
+**Need a plug-in built on top of a tool that already works?** I build browser extensions that add the missing feature to software your team already uses: tested, private by design.
+
+<table>
+<tr><th align="left">Project</th><th align="left">What it does</th><th width="140">Badges</th></tr>
+<tr><td><a href="https://github.com/maumoya/LKND-ghost-text"><b>LKND&#8209;Ghost&#8209;Text</b></a></td><td>Self-destructing LinkedIn messages: click 💣, pick 20s to 30m, and at zero your own message becomes 💬💣💨. 73 tests, 0 network calls, no passwords.</td><td align="center"><a href="https://github.com/maumoya/LKND-ghost-text/releases"><img src="https://img.shields.io/github/v/release/maumoya/LKND-ghost-text?label=release" alt="release"></a><br><br><a href="https://scorecard.dev/viewer/?uri=github.com/maumoya/LKND-ghost-text"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.securityscorecards.dev%2Fprojects%2Fgithub.com%2Fmaumoya%2FLKND-ghost-text&query=%24.score&label=OpenSSF&color=2da44e" alt="OpenSSF score"></a></td></tr>
+</table>
+
 ### 🎮 Browser games (plain JavaScript and canvas, no engine, no login)
 
 <table>
@@ -40,4 +49,4 @@ Signed, Verified releases · OpenSSF Scorecard on every repo · evals before cla
 
 ---
 
-📍 Vermont, USA · Open to collaborations on AI agents, developer tools and startups.
+📍 Vermont, USA · Open to collaborations on AI agents, developer tools, plug-ins and startups.
