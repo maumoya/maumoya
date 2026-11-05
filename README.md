@@ -44,16 +44,17 @@
 
 ### 🚧 In development
 
-Products I am building now. Showcases only, no source code.
+Products I am building now, kept private until launch. Each one is for sale; no source code is published.
 
-- **[VISION](https://github.com/maumoya/vision-showcase)**: one control center that runs a team of AI agents safely.
-- **[DevEn](https://github.com/maumoya/production-environment)**: the development and production environment, an agent-run software line with a human sign-off.
-- **ZeroC0DX**: a code reviewer that must prove each finding by running the tests.
-- **[PaperPRO](https://github.com/maumoya/paperpro)**: a research lab that checks every citation.
-- **GrantPRO**: finds grants that fit, drafts the application and keeps the award compliant.
-- **VisionHFQX**: high-frequency quantitative trading research run by a supervised agent team.
-- **[HubCO](https://github.com/maumoya/hubco)**: a marketplace connecting homes with vetted service pros.
-- **Plaza**: a strategy game through real history.
+- **[Project #1](https://github.com/maumoya/project-1)** · AI harness: one control center that runs a team of AI agents safely.
+- **[Project #2](https://github.com/maumoya/project-2)** · Software delivery: an agent-run line that builds, tests and ships software, with a human sign-off.
+- **[Project #3](https://github.com/maumoya/project-3)** · Research: a research tool that checks every citation.
+- **Project #4** · Developer tools: a code reviewer that proves each finding.
+- **Project #5** · Games: a historical strategy game.
+- **[Project #6](https://github.com/maumoya/project-6)** · Home services: a marketplace for homes and vetted service pros.
+- **[Project #7](https://github.com/maumoya/project-7)** · Grants and nonprofit: audit-ready grants finance for nonprofits.
+- **[Project #8](https://github.com/maumoya/project-8)** · HR tech: a new way for talent and employers to meet. Talent never pays.
+- **Project #9** · Fintech: quantitative trading research run by a supervised agent team.
 
 ### 🛠️ How I ship
 
