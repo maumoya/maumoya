@@ -1,8 +1,8 @@
 ## Hi, I'm Mauricio Moya 👋
 
-I build small, sharp tools for AI coding agents and fast browser games. Everything here is free, open source, signed and measured.
+**Finance. Technology. Compliance. Education.** Twenty years turning numbers, systems and rules into results, and teaching teams to keep them running. On GitHub I build small, sharp tools for AI coding agents and fast browser games: free, open source, signed and measured.
 
-🌐 **Portfolio:** [maumoya.github.io](https://maumoya.github.io)
+🌐 **Portfolio:** [maumoya.github.io](https://maumoya.github.io) · [Finance](https://maumoya.github.io/finance/) · [Technology](https://maumoya.github.io/development/) · [Compliance](https://maumoya.github.io/compliance/) · [Education](https://maumoya.github.io/education/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mba--mmoyat-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mba-mmoyat/)
 [![X](https://img.shields.io/badge/X-@mau__amt-000000?logo=x&logoColor=white)](https://x.com/mau_amt)
@@ -41,13 +41,17 @@ I build small, sharp tools for AI coding agents and fast browser games. Everythi
 <tr><td><a href="https://github.com/maumoya/boredom-blaster-play"><b>Boredom&nbsp;Blaster&nbsp;v1</b></a><br><br><a href="https://maumoya.github.io/boredom-blaster-play/">▶&nbsp;Play</a></td><td>The original retro space shooter in one <!--fact:bb1_size_kb-->13.6 KB<!--/fact--> HTML file.</td><td align="center"><a href="https://github.com/maumoya/boredom-blaster-play/releases"><img src="https://img.shields.io/github/v/release/maumoya/boredom-blaster-play?label=release" alt="release"></a><br><br><a href="https://scorecard.dev/viewer/?uri=github.com/maumoya/boredom-blaster-play"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.securityscorecards.dev%2Fprojects%2Fgithub.com%2Fmaumoya%2Fboredom-blaster-play&query=%24.score&label=OpenSSF&color=2da44e" alt="OpenSSF score"></a></td></tr>
 </table>
 
+### 🚧 In development
+
+[VISION](https://github.com/maumoya/vision-showcase): one control center for a safe team of AI agents · [PaperPRO](https://github.com/maumoya/paperpro): a research lab that checks every citation · [Production Environment](https://github.com/maumoya/production-environment): an agent-run software line with a human sign-off · [HubCO](https://github.com/maumoya/hubco): homes matched with vetted service pros. Showcases only, no source code yet.
+
 ### 🛠️ How I ship
 
 Signed, Verified releases · OpenSSF Scorecard on every repo · evals before claims · MIT licence.
 
 ### 📊 Earlier work
 
-[House rental price prediction](https://github.com/maumoya/House-Rental-Pricing-Prediction) · [DataCamp solutions](https://github.com/maumoya/datacamp_solutions)
+[House rental price prediction](https://github.com/maumoya/House-Rental-Pricing-Prediction) · [DataCamp solutions](https://github.com/maumoya/datacamp_solutions) · [Board presentation case](https://github.com/maumoya/BC3-SalesForce) · [Portfolio v1](https://maumoya.github.io/portfolio-v1/)
 
 ---
 
