@@ -45,7 +45,7 @@
 
 ### 🔬 SignalForge (pre-release)
 
-**Discover. Validate. Prioritize.** A local-first agent skill for evidence-backed signal intelligence. The current offline Python prototype analyzes creator-relative video performance and topic repetition; **10/10 local unit tests passed** on synthetic fixtures (2026-11-08). Public repository, OpenSSF score, Best Practices certification, signed release, and live collector integrations are **pending**.
+**[Discover. Validate. Prioritize.](https://github.com/maumoya/SignalForge/pull/1)** A local-first agent skill for evidence-backed signal intelligence. The current offline Python prototype analyzes creator-relative video performance and topic repetition; **10/10 local unit tests passed** on synthetic fixtures (2026-11-08). Public repository, OpenSSF score, Best Practices certification, signed release, and live collector integrations are **pending**.
 
 ### 🚧 In development
 
