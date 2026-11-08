@@ -43,6 +43,10 @@
 <tr><td><a href="https://github.com/maumoya/christian-trivia"><b>Christian&nbsp;Trivia&nbsp;v1</b></a><br><br><a href="https://maumoya.github.io/christian-trivia/">▶&nbsp;Play</a></td><td>Creativity exercise: idea to playable MVP in one day. Bible trivia for kids 5 to 10 on the seven days of Creation, English and Spanish with read-aloud.</td><td align="center"><a href="https://github.com/maumoya/christian-trivia/releases"><img src="https://img.shields.io/github/v/release/maumoya/christian-trivia?label=release" alt="release"></a><br><br><a href="https://scorecard.dev/viewer/?uri=github.com/maumoya/christian-trivia"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.securityscorecards.dev%2Fprojects%2Fgithub.com%2Fmaumoya%2Fchristian-trivia&query=%24.score&label=OpenSSF&color=2da44e" alt="OpenSSF score"></a></td></tr>
 </table>
 
+### 🔬 SignalForge (pre-release)
+
+**Discover. Validate. Prioritize.** A local-first agent skill for evidence-backed signal intelligence. The current offline Python prototype analyzes creator-relative video performance and topic repetition; **10/10 local unit tests passed** on synthetic fixtures (2026-11-08). Public repository, OpenSSF score, Best Practices certification, signed release, and live collector integrations are **pending**.
+
 ### 🚧 In development
 
 Products I am building now, kept private until launch. Each one is for sale; no source code is published.
